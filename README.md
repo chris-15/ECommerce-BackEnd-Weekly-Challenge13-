@@ -64,7 +64,7 @@ No tests conducted for this application.
 - [MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 - [dotenv Documentation](https://www.npmjs.com/package/dotenv)
 - [Sequelize Documentation](https://sequelize.org/docs/v6/)
-- [Express.js](http://expressjs.com/en/4x/api.html)
+- [Express.js Documentation](http://expressjs.com/en/4x/api.html)
 
 
 ## License
