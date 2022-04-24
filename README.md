@@ -52,7 +52,7 @@ This application can be used to manage an ecommerce back-end server database. To
 
 ## Tests
 
-No tests conducted for this application.
+No tests conducted for this application but the users can test the GET, POST, PUT, and DELETE requests using Insomnia.
 
 ## Credits
 
